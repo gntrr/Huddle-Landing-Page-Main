@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-flexbox-qWPBjhyuAk#comment-649fe3b08eee0b70218b3d4b)
-- Live Site URL: (https://huddle-lp-fm.netlify.app)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-flexbox-qWPBjhyuAk#comment-649fe3b08eee0b70218b3d4b)
+- Live Site URL: [Click Here](https://huddle-lp-fm.netlify.app)
 
 ## My process
 
