@@ -52,7 +52,7 @@ This is the recap of some of your major learnings while working through this pro
           <img src="./path/to/logo.svg" alt="Huddle Logo">
       </section>
 ```
-```
+```html
 <div class="main-image" role="img" aria-label="Huddle Mockups">
   <img src="./path/to/illustration-mockups.svg" alt="Huddle Mockups">
 </div>
