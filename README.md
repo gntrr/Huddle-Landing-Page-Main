@@ -64,7 +64,7 @@ For further development, i will focus on building custom styling for two devices
 
 ### Useful resources
 
-- [Font Awesome](https://fontawesome.com/) - This resources helped me for buliding this landing page. I really liked this icons variants and will use it going forward.
+- [Font Awesome](https://fontawesome.com/) - This resources helped me for buliding this landing page. I really liked the icon collections and will use it going forward.
 
 ## Author
 
