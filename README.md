@@ -49,11 +49,12 @@ This is the recap of some of your major learnings while working through this pro
 ```html
 <!-- Header Section -->
       <section class="logo" aria-label="Header Section">
-          <img src="./images/logo.svg" alt="Huddle Logo">
+          <img src="./path/to/logo.svg" alt="Huddle Logo">
       </section>
 ```
+```
 <div class="main-image" role="img" aria-label="Huddle Mockups">
-  <img src="./images/illustration-mockups.svg" alt="Huddle Mockups">
+  <img src="./path/to/illustration-mockups.svg" alt="Huddle Mockups">
 </div>
 ```
 
